@@ -1,0 +1,22 @@
+projects
+someday maybe
+
+open up, log in
+add to in-tray
+process in-tray
+NA list
+waiting list
+projects
+someday maybe
+reference
+
+lists
+
+all: category (in/NA/waiting etc.), title, description, date added, tags, completed, due date/reminder
+
+in: title, description (for any notes), date added, processed (i.e. completed)
+next action: title, description, date added, completed, tags
+projects: same as in, but with successful outcome
+waiting:
+someday maybe: same as in but with tickler option
+
